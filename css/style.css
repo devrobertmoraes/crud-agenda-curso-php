@@ -50,6 +50,10 @@
     padding: 0;
 }
 
+.delete-form {
+    display: inline-block;
+}
+
 #message {
     color: #155724;
     background-color: #d4edda;
@@ -96,4 +100,4 @@
     #home-link {
         display: none;
     }
-}
+} 
