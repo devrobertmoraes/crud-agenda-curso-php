@@ -3,8 +3,8 @@ include_once("templates/header.php");
 ?>
 
 <div class="container">
-    <?php if (isset($printMsg) && $printMsg != "") : ?>
-        <p id="message"><?= $printMsg ?></p>
+    <?php if (isset($printMessage) && $printMessage != "") : ?>
+        <p id="message"><?= $printMessage ?></p>
     <?php endif; ?>
 
     <h1 id="main-title">Minha Agenda</h1>

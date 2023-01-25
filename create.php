@@ -21,8 +21,8 @@ include_once("templates/header.php");
         </div>
 
         <div class="form-group">
-            <label for="phone">Observações: </label>
-            <textarea class="form-control" name="phone" id="phone" rows="3"></textarea>
+            <label for="observations">Observações: </label>
+            <textarea class="form-control" name="observations" id="observations" rows="3"></textarea>
         </div>
 
         <button type="submit" class="btn btn-primary">Cadastrar</button>
